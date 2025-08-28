@@ -59,6 +59,7 @@ nav#menu a:hover{
   background-color: var(--destaque-inverso);
   transition: 0.3s;
   color: var(--destaque);
+  color: var(--fundo-card);
 }
 
  
